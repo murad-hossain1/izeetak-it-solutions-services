@@ -1,2 +1,2 @@
 # izeetak-it-solutions-services
-izeetak_it_solutions_services
+Izeetak - IT Solutions Services
